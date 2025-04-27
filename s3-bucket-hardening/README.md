@@ -6,3 +6,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 **Key Skills Demonstrated:**  
 - S3 bucket creation and configuration  
+- Public vs private access control  
