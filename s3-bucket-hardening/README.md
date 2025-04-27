@@ -8,3 +8,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - S3 bucket creation and configuration  
 - Public vs private access control  
 - Misconfiguration detection using AWS Trusted Advisor  
+- Policy updates for secure bucket settings  
