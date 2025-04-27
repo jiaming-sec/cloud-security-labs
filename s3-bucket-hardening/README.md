@@ -10,3 +10,5 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - Misconfiguration detection using AWS Trusted Advisor  
 - Policy updates for secure bucket settings  
 - Enabling server-side encryption (SSE-S3)
+
+---
