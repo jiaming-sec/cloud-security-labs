@@ -31,3 +31,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ---
 
 ### 🔹 2. Misconfiguration Verification
+- Made the uploaded file **public**.
