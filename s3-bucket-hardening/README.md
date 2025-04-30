@@ -27,3 +27,7 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 **Screenshot:**  
 ![bucket-created](./screenshots/bucket-created.png)
+
+---
+
+### 🔹 2. Misconfiguration Verification
