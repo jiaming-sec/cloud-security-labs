@@ -14,3 +14,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ---
 
 ## ⚙️ Environment Setup
+- AWS Console access
