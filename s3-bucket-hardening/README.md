@@ -12,3 +12,5 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - Enabling server-side encryption (SSE-S3)
 
 ---
+
+## ⚙️ Environment Setup
