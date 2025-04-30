@@ -17,3 +17,7 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - AWS Free Tier account
 - AWS Console access
 - AWS CLI (optional for additional verification)
+
+## 🧪 Steps and Documentation
+
+### 🔹 1. S3 Bucket Creation
