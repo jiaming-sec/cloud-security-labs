@@ -23,3 +23,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ### 🔹 1. S3 Bucket Creation
 - Created a bucket named `jiaming-sec-demo-bucket`.
 - Intentionally **unchecked** "Block all public access" to simulate a real-world misconfiguration.
+- Uploaded a test file (`hello.txt`) to the bucket.
