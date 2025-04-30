@@ -32,3 +32,7 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 ### 🔹 2. Misconfiguration Verification
 - Made the uploaded file **public**.
+- - Accessed the file publicly via direct URL:
+  ```plaintext
+  http://[bucket-name].s3.amazonaws.com/hello.txt
+  ```
