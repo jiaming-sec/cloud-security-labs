@@ -14,4 +14,5 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ---
 
 ## ⚙️ Environment Setup
+- AWS Free Tier account
 - AWS Console access
