@@ -21,3 +21,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ## 🧪 Steps and Documentation
 
 ### 🔹 1. S3 Bucket Creation
+- Created a bucket named `jiaming-sec-demo-bucket`.
