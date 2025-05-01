@@ -55,3 +55,5 @@ It highlights common **misconfigurations** (like public access) that can lead to
   ```bash
   aws s3api get-bucket-acl --bucket jiaming-sec-demo-bucket
   ```
+
+### 🔹 4. Remediation: Restrict Public Access
