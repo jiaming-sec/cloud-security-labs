@@ -44,3 +44,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ---
 
 ### 🔹 3. Misconfiguration Detection
+- Used **AWS Trusted Advisor** to scan the environment.
