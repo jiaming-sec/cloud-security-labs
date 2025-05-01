@@ -42,3 +42,5 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ![public-access-warning](./screenshots/public-access-warning.png)
 
 ---
+
+### 🔹 3. Misconfiguration Detection
