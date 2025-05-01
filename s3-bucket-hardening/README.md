@@ -62,3 +62,7 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 **Actions Taken:**
 - Enabled all four options under "Block Public Access":
+  - Block Public ACLs
+  - Block Public Bucket Policies
+  - Ignore Public ACLs
+  - Restrict Public Bucket Policies
