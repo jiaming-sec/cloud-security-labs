@@ -48,3 +48,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - Trusted Advisor flagged the public S3 bucket as a **security risk**.
   
 **Screenshot:**  
+![trusted-advisor-warning](./screenshots/trusted-advisor-warning.png)
