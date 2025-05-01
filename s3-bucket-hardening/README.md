@@ -57,3 +57,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
   ```
 
 ### 🔹 4. Remediation: Restrict Public Access
+- Enabled **Block all public access** settings on the S3 bucket.
