@@ -45,3 +45,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 ### 🔹 3. Misconfiguration Detection
 - Used **AWS Trusted Advisor** to scan the environment.
+- Trusted Advisor flagged the public S3 bucket as a **security risk**.
