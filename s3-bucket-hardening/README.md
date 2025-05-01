@@ -66,3 +66,6 @@ It highlights common **misconfigurations** (like public access) that can lead to
   - Block Public Bucket Policies
   - Ignore Public ACLs
   - Restrict Public Bucket Policies
+
+**Screenshot:**  
+![block-public-access-settings](./screenshots/block-public-access-settings.png)
