@@ -49,3 +49,9 @@ It highlights common **misconfigurations** (like public access) that can lead to
   
 **Screenshot:**  
 ![trusted-advisor-warning](./screenshots/trusted-advisor-warning.png)
+
+- **Alternative:**  
+  Verified the bucket ACL using AWS CLI:
+  ```bash
+  aws s3api get-bucket-acl --bucket jiaming-sec-demo-bucket
+  ```
