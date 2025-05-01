@@ -61,3 +61,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - Updated bucket policies to remove any public permissions.
 
 **Actions Taken:**
+- Enabled all four options under "Block Public Access":
