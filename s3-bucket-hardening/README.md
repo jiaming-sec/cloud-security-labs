@@ -36,3 +36,9 @@ It highlights common **misconfigurations** (like public access) that can lead to
   ```plaintext
   http://[bucket-name].s3.amazonaws.com/hello.txt
   ```
+- Confirmed that the object was accessible **without authentication** (security risk).
+
+**Screenshot:**  
+![public-access-warning](./screenshots/public-access-warning.png)
+
+---
