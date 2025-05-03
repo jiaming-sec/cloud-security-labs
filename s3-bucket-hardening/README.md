@@ -80,3 +80,5 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ![encryption-settings](./screenshots/encryption-settings.png)
 
 ---
+
+## 🧐 Lessons Learned
