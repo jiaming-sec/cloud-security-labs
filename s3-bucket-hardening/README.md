@@ -83,3 +83,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 ## 🧐 Lessons Learned
 - **Public access control** must be explicitly managed — by default or through automated monitoring tools (Trusted Advisor, AWS Config).
+- **Server-side encryption** should be enabled to protect data at rest.
