@@ -69,3 +69,7 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 **Screenshot:**  
 ![block-public-access-settings](./screenshots/block-public-access-settings.png)
+
+---
+
+### 🔹 5. Remediation: Enable Server-Side Encryption (SSE-S3)
