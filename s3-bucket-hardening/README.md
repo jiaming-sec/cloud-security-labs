@@ -74,3 +74,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 ### 🔹 5. Remediation: Enable Server-Side Encryption (SSE-S3)
 - Enabled **default encryption** for all new objects uploaded to the bucket.
+- Chose **SSE-S3** (AWS-managed keys) for simplicity and compliance.
