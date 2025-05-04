@@ -91,3 +91,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 ## 🛡️ Best Practices Highlighted
 - Always **block public access** unless absolutely required.
+- Use **AWS Trusted Advisor** and **AWS Config** to continuously monitor S3 bucket permissions.
