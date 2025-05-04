@@ -97,3 +97,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 ---
 
+## 📚 References
