@@ -93,3 +93,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - Always **block public access** unless absolutely required.
 - Use **AWS Trusted Advisor** and **AWS Config** to continuously monitor S3 bucket permissions.
 - Apply **server-side encryption** to protect sensitive data at rest.
+- Follow **IAM least privilege** principle for user and service access to buckets.
