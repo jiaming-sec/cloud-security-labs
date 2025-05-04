@@ -86,3 +86,7 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - **Server-side encryption** should be enabled to protect data at rest.
 - **IAM policies and bucket policies** should follow the **principle of least privilege**.
 - **Regular audits** of S3 permissions can catch misconfigurations early.
+
+---
+
+## 🛡️ Best Practices Highlighted
