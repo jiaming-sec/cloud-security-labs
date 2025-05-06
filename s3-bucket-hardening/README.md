@@ -119,3 +119,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ---
 
 # 👡 How to Improve This Project
+- Write a Python script using **boto3** to automatically check S3 bucket permissions.
