@@ -108,3 +108,4 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ✅ Completed S3 misconfiguration simulation  
 ✅ Detected with Trusted Advisor
 ✅ Fixed public access and enabled encryption 
+✅ Documented findings and remediation steps  
