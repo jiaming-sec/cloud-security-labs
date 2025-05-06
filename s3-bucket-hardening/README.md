@@ -106,4 +106,5 @@ It highlights common **misconfigurations** (like public access) that can lead to
 
 # ✨ Project Status
 ✅ Completed S3 misconfiguration simulation  
-✅ Detected with Trusted Advisor  
+✅ Detected with Trusted Advisor
+✅ Fixed public access and enabled encryption 
