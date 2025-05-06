@@ -109,3 +109,7 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ✅ Detected with Trusted Advisor
 ✅ Fixed public access and enabled encryption 
 ✅ Documented findings and remediation steps  
+
+---
+
+# 🚀 Next Steps
