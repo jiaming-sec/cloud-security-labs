@@ -113,3 +113,5 @@ It highlights common **misconfigurations** (like public access) that can lead to
 ---
 
 # 🚀 Next Steps
+- Automate S3 bucket public access detection using AWS Config.
+
