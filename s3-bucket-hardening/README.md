@@ -116,3 +116,6 @@ It highlights common **misconfigurations** (like public access) that can lead to
 - Automate S3 bucket public access detection using AWS Config.
 - Explore setting up automated alerts for S3 policy changes (using CloudTrail + SNS).
 
+---
+
+# 👡 How to Improve This Project
